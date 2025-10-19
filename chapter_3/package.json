@@ -1,0 +1,20 @@
+{
+
+  "name": "chapter_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Abdur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "uuid": "^13.0.0"
+  }
+}
