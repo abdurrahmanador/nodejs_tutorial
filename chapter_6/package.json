@@ -1,0 +1,17 @@
+{
+  "name": "chapter_6",
+  "version": "1.0.0",
+  "description": "Node.js tutorial chapter 6 ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  
+  },
+  "author": "Abdur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^13.0.0"
+  }
+}
