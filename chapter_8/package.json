@@ -1,7 +1,7 @@
 {
-  "name": "chapter_7",
+  "name": "chapter_8",
   "version": "1.0.0",
-  "description": "Node.js tutorial chapter 7",
+  "description": "Node.js tutorial chapter 8",
   "main": "server.js",
   "scripts": {
     "start": "node server",

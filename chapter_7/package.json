@@ -1,7 +1,7 @@
 {
-  "name": "chapter_6",
-  "version": "1.0.0",
-  "description": "Node.js tutorial chapter 6 ",
+  "name": "chapter_7",
+    "description": "Node.js tutorial chapter 7 ",
+"version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "node server",
@@ -12,7 +12,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
-    "express": "^5.1.0",
     "uuid": "^13.0.0"
   }
 }
