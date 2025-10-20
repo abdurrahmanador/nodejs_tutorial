@@ -1,0 +1,15 @@
+2025-10-20 16:25:25	fbbc3b5e-eec2-4d28-a172-dea23a5486d6	Error	ENOENT: no such file or directory, stat 'C:\Users\Abdur Rahman\Documents\nodejs_tutorial\chapter_8\views\subdor\index.html'
+2025-10-20 16:25:41	113171ae-acf3-4799-8139-9406590fda8c	Error	ENOENT: no such file or directory, stat 'C:\Users\Abdur Rahman\Documents\nodejs_tutorial\chapter_8\views\subdor\index.html'
+2025-10-20 16:31:50	63270908-42dd-4ea3-9119-0eef9ce19f7d	ReferenceError	path is not defined
+2025-10-20 16:31:52	9dc5ce6c-afb6-44a7-915a-241bc8a814f8	ReferenceError	path is not defined
+2025-10-20 16:31:53	4e0b7936-946f-48c3-b27c-7c503651b294	ReferenceError	path is not defined
+2025-10-20 16:31:53	3bccb1cc-9176-461c-b1ad-339e6aeb34fc	ReferenceError	path is not defined
+2025-10-20 16:31:53	9355af1e-e537-4f78-90ef-17929ed7a6f2	ReferenceError	path is not defined
+2025-10-20 16:32:06	623832ec-e243-4706-9508-fb8081263e37	ReferenceError	path is not defined
+2025-10-20 16:32:10	1c96555a-c098-4d59-9d15-a94e9e75c58c	ReferenceError	path is not defined
+2025-10-20 16:32:13	6154f9f7-2473-4e19-a3ff-78aa86d862b4	ReferenceError	path is not defined
+2025-10-20 16:32:14	3916b8e3-23b7-47c8-80a7-6aa761e3ee3a	ReferenceError	path is not defined
+2025-10-20 16:32:14	73dbac47-90cf-41b5-943d-e57442a51391	ReferenceError	path is not defined
+2025-10-20 16:32:30	404adef2-ecd3-4cbc-b5d5-4fec7ad57c3f	ReferenceError	path is not defined
+2025-10-20 16:45:11	5ea42772-b30e-4b77-ad53-6d1224e4f84a	TypeError	Cannot read properties of undefined (reading 'firstName')
+2025-10-20 16:45:26	c9a43048-519d-4d23-af20-fb62c554e06e	TypeError	Cannot read properties of undefined (reading 'firstName')
