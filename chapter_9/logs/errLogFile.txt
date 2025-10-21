@@ -1,0 +1,26 @@
+2025-10-20 16:25:25	fbbc3b5e-eec2-4d28-a172-dea23a5486d6	Error	ENOENT: no such file or directory, stat 'C:\Users\Abdur Rahman\Documents\nodejs_tutorial\chapter_8\views\subdor\index.html'
+2025-10-20 16:25:41	113171ae-acf3-4799-8139-9406590fda8c	Error	ENOENT: no such file or directory, stat 'C:\Users\Abdur Rahman\Documents\nodejs_tutorial\chapter_8\views\subdor\index.html'
+2025-10-20 16:31:50	63270908-42dd-4ea3-9119-0eef9ce19f7d	ReferenceError	path is not defined
+2025-10-20 16:31:52	9dc5ce6c-afb6-44a7-915a-241bc8a814f8	ReferenceError	path is not defined
+2025-10-20 16:31:53	4e0b7936-946f-48c3-b27c-7c503651b294	ReferenceError	path is not defined
+2025-10-20 16:31:53	3bccb1cc-9176-461c-b1ad-339e6aeb34fc	ReferenceError	path is not defined
+2025-10-20 16:31:53	9355af1e-e537-4f78-90ef-17929ed7a6f2	ReferenceError	path is not defined
+2025-10-20 16:32:06	623832ec-e243-4706-9508-fb8081263e37	ReferenceError	path is not defined
+2025-10-20 16:32:10	1c96555a-c098-4d59-9d15-a94e9e75c58c	ReferenceError	path is not defined
+2025-10-20 16:32:13	6154f9f7-2473-4e19-a3ff-78aa86d862b4	ReferenceError	path is not defined
+2025-10-20 16:32:14	3916b8e3-23b7-47c8-80a7-6aa761e3ee3a	ReferenceError	path is not defined
+2025-10-20 16:32:14	73dbac47-90cf-41b5-943d-e57442a51391	ReferenceError	path is not defined
+2025-10-20 16:32:30	404adef2-ecd3-4cbc-b5d5-4fec7ad57c3f	ReferenceError	path is not defined
+2025-10-20 16:45:11	5ea42772-b30e-4b77-ad53-6d1224e4f84a	TypeError	Cannot read properties of undefined (reading 'firstName')
+2025-10-20 16:45:26	c9a43048-519d-4d23-af20-fb62c554e06e	TypeError	Cannot read properties of undefined (reading 'firstName')
+2025-10-21 08:24:39	795159d4-fafc-4fbd-9cb8-7833e7f50b9b	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:24:43	260ffed9-a6db-4e01-85fd-f0170145cd2f	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:24:44	68f816c2-7606-4c37-8a66-0cb108b12712	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:05	f1b3275d-16fd-4b59-81ee-076b0cfe0bde	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:05	2629480f-eddb-4942-b73d-a7f2f0fd6dfc	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:05	38958227-738f-4dfd-a339-e1363d14a637	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:06	658cac9b-3701-4463-908e-cfd31561df62	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:06	6c60fe16-d0f0-494f-b7df-2a8922c0726d	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:06	5d598b80-b328-42ea-b706-022b8c8e2dde	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:06	bf2fdca1-f2db-4733-b7f3-bc6f9b6921f4	ReferenceError	updatedEmployees is not defined
+2025-10-21 08:25:12	cd0ccf7f-b047-4452-91c3-396a5b4cd421	ReferenceError	updatedEmployees is not defined
